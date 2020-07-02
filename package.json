@@ -1,0 +1,29 @@
+{
+  "name": "@kjl3080/express-promisify",
+  "version": "1.0.0",
+  "description": "Express.js has non-standard callback formats, preventing util.promisify from working. Use this instead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/password12004/express-promisify.git"
+  },
+  "keywords": [
+    "asyncronous",
+    "express.js",
+    "express",
+    "npm",
+    "abstraction",
+    "promise",
+    "promisify"
+  ],
+  "author": "kjl3080",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/password12004/express-promisify/issues"
+  },
+  "homepage": "https://github.com/password12004/express-promisify#readme",
+  "dependencies": {}
+}
