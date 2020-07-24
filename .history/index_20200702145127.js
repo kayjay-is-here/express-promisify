@@ -3,7 +3,7 @@
  */
 
  // const expressPromisified = new PromisifyExpress(express)
-    module.exports = class PromisifyExpress {
+    export default class PromisifyExpress {
         /**
          * 
          * @param {object} express = express object to convert to promise 
