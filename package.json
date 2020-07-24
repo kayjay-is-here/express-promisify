@@ -1,6 +1,6 @@
 {
   "name": "@kjl3080/express-promisify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express.js has non-standard callback formats, preventing util.promisify from working. Use this instead.",
   "main": "index.js",
   "scripts": {
