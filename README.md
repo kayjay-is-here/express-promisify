@@ -12,7 +12,11 @@
 ## Install
 
 ```sh
-npm install
+npm install express-promisify
+```
+Or
+```sh
+yarn add express-promisify
 ```
 
 ## Run tests
